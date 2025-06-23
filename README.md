@@ -1,6 +1,7 @@
 # DataCleaning_Project
 
 This project demonstrates a full data cleaning process using SQL on a dataset containing information about global layoffs. The process includes removing duplicates, standardizing values, handling nulls, and dropping irrelevant data columns.
+##
 
 The dataset, stored in a table called world_layoffs, includes the following fields:
 company,
@@ -13,7 +14,9 @@ stage,
 country,
 funds_raised_millions.
 
+
 The original dataset was duplicated into staging tables to preserve the raw data.
+## 
 
 Cleaning Steps:
 1. Remove Duplicates
