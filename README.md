@@ -13,7 +13,7 @@ stage,
 country,
 funds_raised_millions
 
-Note: The original dataset was duplicated into staging tables to preserve the raw data.
+The original dataset was duplicated into staging tables to preserve the raw data.
 
 Cleaning Steps:
 1. Remove Duplicates
