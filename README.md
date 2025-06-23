@@ -11,7 +11,7 @@ percentage_laid_off,
 date,
 stage,
 country,
-funds_raised_millions
+funds_raised_millions.
 
 The original dataset was duplicated into staging tables to preserve the raw data.
 
